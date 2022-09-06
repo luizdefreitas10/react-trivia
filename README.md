@@ -1,3 +1,7 @@
+See it working: https://react-trivia-eta.vercel.app/ 
+
+Made in group with Leonardo Araujo, Thiago Viana, Lucas Coimbra, Alexandre Rangel and me (Luiz de Freitas)
+
 # Boas-vindas ao repositório do projeto de Trivia!
 
 Para realizar o projeto, atente-se a cada passo descrito a seguir e, se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
